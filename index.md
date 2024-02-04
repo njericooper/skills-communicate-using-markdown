@@ -1,1 +1,1 @@
-# Njeri Cooper Markdown Tut
+# Njeri Cooper Markdown Tut ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
